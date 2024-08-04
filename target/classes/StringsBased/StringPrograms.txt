@@ -1,0 +1,1 @@
+1. Duplicate Character in given String with count
